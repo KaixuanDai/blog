@@ -1,11 +1,10 @@
 # Site settings
-title: Clean
-email: your-email@domain.com
+title: Blog
+email: 542377628@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml.
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+  My personal Blog
+baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+url: "http://jiangroubao.cn" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
