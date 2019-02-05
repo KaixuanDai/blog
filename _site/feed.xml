@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Clean</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml.
+    <title>Blog</title>
+    <description>My personal Blog
 </description>
-    <link>http://localhost:4000/clean/</link>
-    <atom:link href="http://localhost:4000/clean/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 Feb 2019 17:42:49 +0800</pubDate>
-    <lastBuildDate>Tue, 05 Feb 2019 17:42:49 +0800</lastBuildDate>
+    <link>http://localhost:4000/blog/</link>
+    <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 05 Feb 2019 17:48:18 +0800</pubDate>
+    <lastBuildDate>Tue, 05 Feb 2019 17:48:18 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -45,8 +45,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at mauris ante. C
 
 </description>
         <pubDate>Sun, 27 Sep 2015 02:51:59 +0800</pubDate>
-        <link>http://localhost:4000/clean/jekyll/update/2015/09/27/clean-theme.html</link>
-        <guid isPermaLink="true">http://localhost:4000/clean/jekyll/update/2015/09/27/clean-theme.html</guid>
+        <link>http://localhost:4000/blog/jekyll/update/2015/09/27/clean-theme.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/jekyll/update/2015/09/27/clean-theme.html</guid>
         
         
         <category>jekyll</category>
@@ -90,8 +90,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at mauris ante. C
 
 </description>
         <pubDate>Sun, 27 Sep 2015 02:51:59 +0800</pubDate>
-        <link>http://localhost:4000/clean/jekyll/update/2015/09/27/123.html</link>
-        <guid isPermaLink="true">http://localhost:4000/clean/jekyll/update/2015/09/27/123.html</guid>
+        <link>http://localhost:4000/blog/jekyll/update/2015/09/27/123.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/jekyll/update/2015/09/27/123.html</guid>
         
         
         <category>jekyll</category>
@@ -105,8 +105,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at mauris ante. C
         <description>&lt;p&gt;Hello Jekyll&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Sep 2015 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/clean/jekyll/update/2015/09/26/hello.html</link>
-        <guid isPermaLink="true">http://localhost:4000/clean/jekyll/update/2015/09/26/hello.html</guid>
+        <link>http://localhost:4000/blog/jekyll/update/2015/09/26/hello.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/jekyll/update/2015/09/26/hello.html</guid>
         
         
         <category>jekyll</category>
